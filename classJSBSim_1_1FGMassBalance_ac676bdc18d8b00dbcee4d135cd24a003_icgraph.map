@@ -1,0 +1,5 @@
+<map id="StructuralToBody" name="StructuralToBody">
+<area shape="rect" id="node1" title="Conversion from the structural frame to the body frame." alt="" coords="205,42,337,69"/>
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGPropeller.html#a15792c31b5924f5afe34808502a965ef" title="Calculates and returns the thrust produced by this propeller." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGMassBalance.html#a764e8c6d39b827d2ad03f570a2fc37e6" title="Runs the Mass Balance model; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="58,71,105,98"/>
+</map>
